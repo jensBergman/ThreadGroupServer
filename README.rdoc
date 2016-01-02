@@ -1,0 +1,2 @@
+C++ server using thread_group from the Boost library.
+The thread_group is used as a threadpool but with the benefit that threads lifetime can easily be managed (in a thread safe way).
